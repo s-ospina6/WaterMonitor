@@ -1,16 +1,26 @@
-# React + Vite
+# 💧 WaterMonitor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistema IoT para el monitoreo inteligente del consumo de agua utilizando **ESP32**, **Firebase Realtime Database** y **React**.
 
-Currently, two official plugins are available:
+## 🚀 Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 📡 Monitoreo en tiempo real.
+- 💧 Visualización del caudal.
+- 📊 Consumo acumulado en litros.
+- 📈 Gráficas en tiempo real.
+- ☁️ Sincronización con Firebase.
+- 🌐 Dashboard web desarrollado con React.
 
-## React Compiler
+## 🛠 Tecnologías
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ESP32
+- Arduino IDE
+- Firebase Realtime Database
+- React + Vite
+- Recharts
+- GitHub
+- Vercel (próximamente)
 
-## Expanding the ESLint configuration
+## 📷 Estado del proyecto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚧 En desarrollo
